@@ -1,22 +1,39 @@
+
+body {
+	background-image: url("https://img.freepik.com/free-vector/abstract-paper-cut-shape-wave-background_474888-4423.jpg");
+  	background-color: #cccccc;
+}
 h1 {
 
   text-align: center;
-  border: 3px solid green;
+  
 
+}
+.kouti {
+	background-image: url("2wCEAAkGBxMSEhUSEhIVFRUVFRcWFhYWFRUVFRUXFRUWFhUVFRYYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICUvLi0wLS0tLS0tLy0tLTYtLS0tLS8tLS0tLS0tLSstLSstLS0tLS0tLS0tLS0tLS4tLf");
 }
 img {
 
 	width: 270px;
 
+
 }
 .card-title {
 	 font-weight:bold;
+	 text-align: center;
+	
 }
 .recipe-1{
-	height: 70%;
-	width:70%;
+	height: 500px;
+	width:500px;
 }
 .recipe-2{
 	height: 500px;
 	width:388px;
+}
+div{
+	margin-bottom: 30px;
+}
+p{
+	font-style:Arial;
 }
