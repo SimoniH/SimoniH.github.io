@@ -1,0 +1,22 @@
+h1 {
+
+  text-align: center;
+  border: 3px solid green;
+
+}
+img {
+
+	width: 270px;
+
+}
+.card-title {
+	 font-weight:bold;
+}
+.recipe-1{
+	height: 70%;
+	width:70%;
+}
+.recipe-2{
+	height: 500px;
+	width:388px;
+}
